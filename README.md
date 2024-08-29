@@ -1,1 +1,2 @@
 # MScDis
+## GP accelerated inference
